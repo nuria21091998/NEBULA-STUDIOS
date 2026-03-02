@@ -1,19 +1,22 @@
-RESPONSABLES DE DEPARTAMENTO: 
+# Responsables de Departamento
 
-Departamento de recursos humanos y contabilidad: Anas
-Departamento de marketing y publicidad: Sergio
-Departamento de diseño artístico: Juanjo
-Departamento de programación: Nando
-Departamento de desarrollo informático: Adriel
-Coordinación y gestión del proyecto: Nuria
+## 📌 Departamentos
 
---------------------------------------------------------------------------------------
+- **Departamento de Recursos Humanos y Contabilidad:** Anas  
+- **Departamento de Marketing y Publicidad:** Sergio  
+- **Departamento de Diseño Artístico:** Juanjo  
+- **Departamento de Programación:** Nando  
+- **Departamento de Desarrollo Informático:** Adriel  
+- **Coordinación y Gestión del Proyecto:** Nuria  
 
-REPARTO DE HITOS: 
+---
 
-Hitos de IPEI: Anas
-Hitos de Bases de datos: Sergio
-Hitos de Lenguaje de marcas: Juanjo
-Hitos de Programación: Nando
-Hitos de Sistemas Informáticos: Adriel
-Hitos de Inglés y coordinación de memoria: Nuria
+# Reparto de Hitos
+
+- **Hitos de IPEI:** Anas  
+- **Hitos de Entornos de desarrollo:** Sergio   
+- **Hitos de Lenguaje de Marcas:** Juanjo  
+- **Hitos de Programación:** Nando  
+- **Hitos de Sistemas Informáticos:** Adriel  
+- **Hitos de Inglés y Coordinación de Memoria:** Nuria
+- **Hitos de Bases de Datos:** CONJUNTO
