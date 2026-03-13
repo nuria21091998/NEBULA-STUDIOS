@@ -13,8 +13,7 @@
 ## 1️⃣ Inglés
 
 - Memoria de la idea en inglés. Exposición el día de la defensa. **(HITO 1) (HECHO)**  
-- Versión reducida del CV. Exposición el día de la defensa, al presentar los miembros de la empresa y sus responsabilidades. Cada integrante debe hablar de su CV en inglés. **(HITO 3)**  
-- Entrevista a cada miembro del equipo sobre salidas e intenciones laborales. No se expone, solo se añade a la memoria. **(HITO 4)**  
+- Versión reducida del CV. Exposición el día de la defensa, al presentar los miembros de la empresa y sus responsabilidades. Cada integrante debe hablar de su CV en inglés. **(HITO 3)**   
 
 ---
 
