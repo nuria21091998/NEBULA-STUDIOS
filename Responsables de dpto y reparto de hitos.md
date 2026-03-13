@@ -3,7 +3,7 @@
 ## 📌 Departamentos
 
 - **Departamento de Recursos Humanos y Contabilidad:** Anas  
-- **Departamento de Marketing y Publicidad:** Sergio  
+- **Departamento de Testing y Control de calidad:** Sergio  
 - **Departamento de Diseño Artístico:** Juanjo  
 - **Departamento de Programación:** Nando  
 - **Departamento de Desarrollo Informático:** Adriel  
